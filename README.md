@@ -7,6 +7,7 @@ To receive his Master of science in Business Engineering, Data Analytics
 Notebooks:
 - (Scraping news and Twitter)[FinancialsScraping.ipynb]
 - (Scraping financial information)[0]
+- [Scraping finnacial information](FinancialsScraping.ipynb)
 
 Scripts: 
 - ...
