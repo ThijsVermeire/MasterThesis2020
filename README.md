@@ -5,7 +5,7 @@ To receive his Master of science in Business Engineering, Data Analytics
 2019-2020
 
 Notebooks:
-- (Scraping news and Twitter)[0]
+- (Scraping news and Twitter)[FinancialsScraping.ipynb]
 - (Scraping financial information)[0]
 
 Scripts: 
